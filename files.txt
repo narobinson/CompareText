@@ -1,0 +1,10 @@
+ant1.txt
+ant2.txt
+catmouse1.txt
+catmouse2.txt
+crop1.txt
+crop2.txt
+run1.txt
+run2.txt
+wolf1.txt
+wolf2.txt
